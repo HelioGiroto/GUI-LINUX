@@ -1,18 +1,31 @@
-#LINKS DE DOCUMENTAÇÃO#
+# LINKS DE DOCUMENTAÇÃO #
 
-https://help.gnome.org/users/zenity/3.32/
+https://help.gnome.org/users/zenity/3.32
+
 https://help.gnome.org/users/zenity/3.32/usage.html.en
+
 https://help.gnome.org/users/zenity/3.32/calendar.html.en
+
 https://help.gnome.org/users/zenity/3.32/color-selection.html.en
+
 https://help.gnome.org/users/zenity/3.32/file-selection.html.en
+
 https://help.gnome.org/users/zenity/3.32/forms.html.en
+
 https://help.gnome.org/users/zenity/3.32/list.html.en
+
 https://help.gnome.org/users/zenity/3.32/message.html.en
+
 https://help.gnome.org/users/zenity/3.32/notification.html.en
+
 https://help.gnome.org/users/zenity/3.32/password.html.en
+
 https://help.gnome.org/users/zenity/3.32/progress.html.en
+
 https://help.gnome.org/users/zenity/3.32/scale.html.en
+
 https://help.gnome.org/users/zenity/3.32/entry.html.en
+
 https://help.gnome.org/users/zenity/3.32/text.html.en
 
 
