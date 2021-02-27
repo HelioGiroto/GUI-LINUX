@@ -7,8 +7,9 @@ Para isso, usaremos os seguintes utilitários Linux para criação de caixas de 
 - Dialog
 - Yad
 
-* É preciso instalar os pacotes acima:
-$ sudo apt install zenity dialog yad
+(*) É preciso instalar os pacotes acima:
+
+	$ sudo apt install zenity dialog yad
 
 **Hélio Giroto**
 
