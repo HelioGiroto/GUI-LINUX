@@ -2,7 +2,7 @@
 
 
 # You must place file "COPYING" in same folder of this script.
-FILE=`dirname $0`/COPYING
+FILE=`dirname $0`/README.md
 
 zenity --text-info \
        --title="License" \
